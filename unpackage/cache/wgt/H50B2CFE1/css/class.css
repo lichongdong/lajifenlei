@@ -1,0 +1,33 @@
+.container{
+	display:flex;
+	flex-direction: column;
+	overflow: hidden;
+	width:100vw;
+	height:100vh;
+}
+section{
+	padding-top:3.125rem;
+	display:flex;
+	flex:1;
+	flex-direction: column;
+	overflow: hidden;
+}
+.mui-slider-item{
+	padding:1.25rem;
+}
+.mui-slider-item >div{
+	padding:0.9375rem;
+	background-color: #AC5740;
+	border-radius:20px;
+	color:#fff;
+}
+.scroll-list{
+	position: relative;
+	flex:1;
+}
+.scroll-list ul{
+	padding:1.25rem;
+}
+.scroll-list ul li{
+	padding:0.625rem 0.625rem
+}

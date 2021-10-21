@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6762074",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "10048840",
+      "name": "语音合成",
+      "font_class": "yuyinhecheng",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "12027826",
+      "name": "垃圾站",
+      "font_class": "lajizhan",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "15463295",
+      "name": "回收站",
+      "font_class": "huishouzhan",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "15813351",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "19475662",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}
